@@ -9,6 +9,8 @@ Requires [`exiftool`](https://www.sno.phy.queensu.ca/~phil/exiftool/index.html).
 brew install exiftool
 ```
 
+Speed/performance is explicitly not a goal :)
+
 Usage
 -----
 
